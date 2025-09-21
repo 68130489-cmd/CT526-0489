@@ -1,3 +1,4 @@
-def myfunc(a,b):
- a = str("x")
- return(a*b)
+class tee:
+  def myfunc(self,num1, num2):
+      result = num1 * num2
+      return (result)
